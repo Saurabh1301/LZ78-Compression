@@ -1,0 +1,13 @@
+11=[]
+12=[]
+n=int(input('Enter the no. of entries'))
+	for i in range(0,n):
+		a=(int(input("Enter 1st part of entry {} '.format(i+1)))) b=input('Enter 2nd part of entry {} '.format(i+1))
+		11. append (a)
+		if a==0:
+			12. append (b)
+
+		else:
+			12.append(12[a-1]+b)
+print('\The required string is :\n')
+print(.join(12))

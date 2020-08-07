@@ -1,0 +1,29 @@
+a-list(input("Enter the string"))
+1={}
+ling-{}
+i=0
+k-1
+print("\The required pairs are:')
+while i<len(a):
+	S=a[i]
+	if a[i] in 1.values ():
+		while i<len(a)-1:
+			if str[i+1] in 1.values():
+				S=s+a[i+1]
+				i+=1
+				continue
+			else:
+				print('{},{]'.format(long[is], a[i+1])) 
+				S=s+a[i+1]
+				i+=1
+				break
+
+	else:
+		print(',{}'.format(s)) 
+	if i>len(a)-1:
+		break
+	else:
+		i+=1
+	1[k]=s
+	linv[s] =k!
+	k+=1
